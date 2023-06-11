@@ -1,0 +1,35 @@
+----------------------------------------------------------
+📝 0518 Project Record
+----------------------------------------------------------
+🌱 Ready
+
+- Moviecard 레이아웃
+- Now playing, Upcoming 클릭 > Moviecard로 이동 
+- django 데이터 넣기
+- `Search` > 검색 > 검색어와 관련된 영화 보여주기
+- `Search` > 검색 > 검색 해당 단어와 관련된 모든 영화 보여주기
+
+
+🪴 In Progress
+
+
+
+
+🌳 Done
+
+- Moviecard 레이아웃
+- Now playing, Upcoming 클릭 > Moviecard로 이동 
+- django 데이터 넣기
+- `Search` > 검색 > 검색어와 관련된 영화 보여주기
+- `Search` > 검색 > 검색 해당 단어와 관련된 모든 영화 보여주기
+
+
+🤯 error
+
+1. Homeview > Upcoming, Now playing 클릭하면 Moviecard페이지로 넘어가도록 구현
+⛔️ 새로고침 시 데이터가 초기화 됨
+
+해결방법 : 포스터 클릭 시 해당 영화 id를 가지고 다시 tmdb에서 axios로 영화 데이터 받아오기 
+
+
+

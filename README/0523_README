@@ -1,0 +1,40 @@
+--------------------------------------------
+📝 0523 Project Record
+--------------------------------------------
+
+🌱 Ready
+
+- 좋아요 버튼 구현
+- 프로필에 나온 포스터 영화 클릭 시 디테일 창과 연결
+- MovieCard 댓글창 구현
+- MovieCard 완성
+- 리뷰페이지 좋아요 버튼 구현
+- 프로필페이지 리뷰 댓글 detail
+- 한줄평 없을 때 에러 제거
+- HomeView에서 영화 포스터 boder 등 디테일 주기
+- 프로필페이지 글자 정렬
+- MovieCard에서 리뷰작성 할 때, modal창 디자인
+- MovieCard overview 글자 정렬
+
+
+🪴 In Progress
+
+- 🌟알고리즘 추천 기능 더 자세히 생각해서 틀 구현
+- 전체적인 디자인 detail 수정
+- MovieCard 완성--->왼쪽정렬
+- 프로필페이지-->comment 창 
+- 리뷰페이지 좋아요 버튼 구현 
+- 프로필에 나온 포스터 영화 클릭 시 디테일 창과 연결
+
+
+
+🌳 Done
+- MovieCard 댓글창 구현
+- MovieCard 완성
+- 좋아요 버튼 구현
+- 프로필페이지 글자 정렬
+- 프로필페이지 리뷰 댓글 detail
+- MovieCard에서 리뷰작성 할 때, modal창 디자인
+- HomeView에서 영화 포스터 boder 등 디테일 주기
+- MovieCard overview 글자 정렬
+
